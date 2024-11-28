@@ -1,7 +1,7 @@
+import Header from "./components/Header";
+
 function App() {
-  return (
-      <p>Vite + React</p>
-  )
+  return <Header />;
 }
 
-export default App
+export default App;
